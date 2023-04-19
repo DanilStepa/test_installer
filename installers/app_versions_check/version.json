@@ -1,0 +1,8 @@
+{
+  "name": "New version",
+  "version": 1.7,
+  "description": [
+    "New version"
+  ],
+  "windows_file_name": "installers/windows/setup.exe"
+}
