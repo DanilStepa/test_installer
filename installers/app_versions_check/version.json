@@ -1,8 +1,8 @@
 {
-  "name": "New version",
+  "name": "Новая версия",
   "version": 1.7,
   "description": [
-    "New version"
+    "Мы запилили автообновление:)"
   ],
   "windows_file_name": "installers/windows/StudioZvuka.exe"
 }
